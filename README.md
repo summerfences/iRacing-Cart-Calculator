@@ -10,4 +10,4 @@ Windows execution is as easy as extracting the .zip archive and running the exec
 
 For Linux users, pull up a terminal pointing to the directory in which the executable is stored, and run it with 
 `./iRacing-Cost-Calculator-v0.1`
-Alternatively, you could enter `./` into the terminal, and then click and drag the file to the terminal.
+Alternatively, you could click and drag the file to the terminal.
