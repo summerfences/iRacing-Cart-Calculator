@@ -9,5 +9,5 @@ If compiling for yourself on a GNU/Linux distribution, be sure to include the -l
 Windows execution is as easy as extracting the .zip archive and running the executable.
 
 For Linux users, pull up a terminal pointing to the directory in which the executable is stored, and run it with 
-`./iRacing-Cost-Calculator-v0.1`
+`./iRacing-Cost-Calculator`
 Alternatively, you can click and drag the file to the terminal.
