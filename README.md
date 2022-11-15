@@ -1,0 +1,2 @@
+# iRacing-Addon-Cost-Calculator
+This is a multithreaded C++ program that can be used to calculate how much any combination of cars and tracks would be in iRacing! Support for every purchasble car and track is included, but no functionality for including sales or VAT tax are currently implemented. Since the program utilizes concurrency, when compiling on a GNU/Linux installation be sure to include -pthread
