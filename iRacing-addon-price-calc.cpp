@@ -2,7 +2,7 @@
  * of NON-LEGACY tracks and cars cost on iRacing
  * Use this when budgeting out a cart in the service
  * VAT/Sales tax not yet implemented
- * By Frank T Passantino, v0.1
+ * https://github.com/summerfences v0.1
  * 11/14/2022
  */
 
